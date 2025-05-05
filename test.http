@@ -1,0 +1,13 @@
+GET https://api.retescuolevallagarina.it/items/schools
+
+###
+GET https://api.retescuolevallagarina.it/items/educational_paths
+
+###
+GET https://api.retescuolevallagarina.it/items/events
+
+###
+GET https://api.retescuolevallagarina.it/items/school_phones
+
+###
+GET https://api.retescuolevallagarina.it/items/videos
